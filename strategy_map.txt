@@ -1,0 +1,13 @@
+strategy ("style") mappings:
+
+en_lex = Insertional SP > EN
+sp_lex = Insertional EN > SP
+sp2en = Alternational SP > EN
+en2sp = Alternational EN > SP
+en_lex_soc = Insertional SP > EN + Informal
+sp_lex_soc = Insertional EN > SP + Informal
+sp2en_soc = Alternational SP > EN + Informal
+en2sp_soc = Alternational EN > SP + Informal
+sp_mono = Monolingual SP
+en_mono = Monolingual EN
+random = Random

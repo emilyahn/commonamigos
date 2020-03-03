@@ -1,0 +1,3138 @@
+[
+  {
+    "C_acda59d431e04eeaba8acbb812b6d000": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_596564270fb04837a78014922b042f65": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_62bdba674cee4efa9517a27f717d9862": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_b64ad8293898446ba479c45d122db1e0": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_05671ac184564357be3b6c7c0861f3d7": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_4c6be0c0a1c94b87aad685e550db8666": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_1c242089b30540919231e464187f8a73": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_80160c53ceb64895b3aab2a36c26ac00": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_cbf1c5fe0506443490b84155e8853495": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_9a6817f259bf48908ab65040691798fb": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_d77799ca4a2648988d14220bedb17222": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_89ee74905d3241e1b514401f8289ef5b": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_2a30446af2194c548e6dd101863929f5": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_d1bdfca3298c4194b6800029765404e2": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_58a9e78a8c374eb8983725eb69e06796": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_9654445380994d22be77428f4bbeaff2": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_66378618f7504789b5014dacf1b2b127": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_793131ef681e416f99a546a7657cc7a0": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_372b739e29f64cf0996f4511e78025a5": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_15b1ae897e53459398c84115d5d8c476": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_cce3100ed48b43ef9bf65940b379ac18": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_9da4687ff5fe42a99392c8590a5af45c": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_5cbd89f7417e46a2805e32181ebe12c5": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_9130094f9c0f4848860da98de27166b5": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_3b6f36736461432094605072b23db383": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_8eb7f31cfae64fca984cf334b960db42": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_0596b070cd1c456190bf3b9ddf1e0284": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_5f4e312641b14f08876e436a9e0a4655": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_5cf3ea222a534baf982c2b71980b67e5": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_14606455ab8c49eea667c69377706d63": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_527d19b4f615479aab96de1d39862ae1": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_6b0a991c167b46fc8f19b2bb903847e3": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_028e7c475ecd493bb33ab2d76c04d199": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_36c1bbbc847a4b4398b75aaa379fb612": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_95426e85801f463596e57e0ca09044b0": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_8c162af9da20462ea7da87ce4680c597": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_f6e8da8cc71b4731b67e5daef99dafa9": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_5b464111f6794db7b862246c49b4360b": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_8b988ab9801c4250968e12d492f40be0": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_02cb4c00c5534c2296ecfb553eb5cfe3": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_b1bbea9b1e954869944aafe2f9562ca7": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_2f85c5dd7daa4e5597736c1bf290501a": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_83ab7c0ddbc546b6b1059e8663f8a41c": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_3c8e02a78898414fb0cfd15a1fa90b60": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_fc669e32bf6242fab25b5ddf04236c36": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_1bbeeea414f3414288390bbe21215374": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_a4808f582f1549db8a7bf05d5489dc6a": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_7cfde999bd2e43ac9d04b598f2e4b91f": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_7138901c2d7948ee9869b2a5c485cb04": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_a9efce1181424b30b824a9b08c3552db": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_5ace9ead06e84a0db008efdd6223963e": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_d6fff772a30f429dacc1f565f5f32604": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_f108f820483d4a5fac67ad80cb5ddde0": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_1b8674951cd949ea8985bc490b93a7ae": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_09935b9b590649698ca1a5d04a1d3014": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_bb26867aba6a41b199015ee7459006d0": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_034997f886dc473b8c6a6bfca3db32a6": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_a0d9d7a0f3e546a2b84c7b4f76a7fd86": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_dc39fc2ec08e4b9bae41501fe4d7459c": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_4c82fb52b0864809afb9528a92e68a1f": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_5c6c855433da44cbb1cde06c338f2bef": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_c2cc151117b741108ef6ae197c04ee2d": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_ea270cb0d8d5452cbe949f438d1f14f5": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_ae9c5e87c55d455881b1536911c6d0b1": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_494c8db991744e798327d8a203c62545": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_1a51a6cf5b034eb8a85cd52b6b3cc182": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_f90b293951bd4da8aa17acb0ad236a5c": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_fa3ab2eaa02b436eb6c6a4f4ac959674": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_29c6d463465049da8db22ddaa3da587f": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_f7fdba7ee0384d2f8da825a00a3512fe": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_7eccfaf59e21459fbc4b7a59745cbb77": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_ca58ea78136c407badce050863b2b6a7": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_d11eb9f5af814eed98a9cd9b4fecf23e": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_c2a2964515a34b78a6e07d32a67b89bd": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_6f8d9fd760f2488296cc431b611f3953": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_2e726f39e0a94a0ca17c7db5058d53aa": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_2f2fd874263c45188be885284459115d": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_fd35c97047f0425989ff26dadc689144": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_cd5b345b03dd45f6b2207788a8e9b5d0": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_8809c311c26440ff87886fe68253c6bd": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_bf739de6f5c14a1db318c0c13a27a159": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_c83bd792eec34be7baef8cf629cf4e4b": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_ce2dbda4a8d94c1aa40595d416587415": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_4a692c788ee1444f902762509f3f24e3": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_b7cc3759cc0b42358f30c50dc65c9bf7": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_2efde312494a43b4b3971969688abe8c": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_cda517110d2e452d973ac21e6016d3c0": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_c16f433f64134da08df90836d4375657": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_347947ca3a094b3ca4ea02406e0c4aa5": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_aab4050ef94945a29f572c6d9b3dd7eb": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_dc24e0f8aa86460e88855164400e9576": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_8c021bb0374f4717b56781a5a67524f1": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_4c061b754216447f8bd35e13c4a70245": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_4d65f75e51204d7e9802a8242fb63cbd": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_7ec275b9573344448ef00eac843dcdf8": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_09e4d13137c74b5ea4cb18169c1c5845": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_ab000d4a33ce408ca52e67375234b714": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_732324222e5f4d249358012be5bc261d": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_d8d4711d1fe547e79750ad186ebe3e51": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_8164ec1cc1aa48ea97a590dc2898f899": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_f9a12020c63f442690f95bac3e3995b9": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_e30408c2cd4540f68b2d03af4fe89fcf": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_570a6dd5efde48ef921979e1ec11971e": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_1fdc2d2fa99c45b5b5b0718102eccde2": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_1a15f58bfbfa4c49bb49f73472cda3b4": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_afd6cb92f90e467788234db4cd8e5014": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_da59d4ac8c4a4fe8b4617d82eb2dacfd": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_aded57c8c26f44ca8474b0ba25fecb0b": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_303f40beae9e43b48d0a2df677d489ca": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_9d3d2d0798a64167a533a2c1f32d1d29": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_ee3c0d6e64aa450a8c6c4f2d77902b8d": {
+      "1": "human",
+      "0": "rule_bot"
+    },
+    "C_dd28ec5aaed7420fa63e08d04ff1358f": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_6c19d3e488c9415bbc1c95e739291f1e": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_3d335cd891ed452b987a7afafe08aa24": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_d0d5e1fea59a483889e2204cb4ce9008": {
+      "1": "rule_bot",
+      "0": "human"
+    },
+    "C_371f128e6996434085ebd6fb67c31616": {
+      "1": "rule_bot",
+      "0": "human"
+    }
+  },
+  {
+    "C_acda59d431e04eeaba8acbb812b6d000": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 0,
+        "n10_age": 22,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "Dominican Republic",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_596564270fb04837a78014922b042f65": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 25,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 5,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "Nicaragua",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "Thanks for the survey! I enjoyed it. "
+      }
+    },
+    "C_62bdba674cee4efa9517a27f717d9862": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 1,
+        "n10_age": 35,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 5,
+        "n16_online_mix": 2,
+        "n06_texts": 2,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_b64ad8293898446ba479c45d122db1e0": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 9,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 5,
+        "n15_online_eng": 9,
+        "n16_online_mix": 9,
+        "n06_texts": 2,
+        "n13_country": "us",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "great task"
+      },
+      "1": {}
+    },
+    "C_05671ac184564357be3b6c7c0861f3d7": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 6,
+        "n10_age": 26,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 2,
+        "n05_chat": 5,
+        "n15_online_eng": 6,
+        "n16_online_mix": 1,
+        "n06_texts": 1,
+        "n13_country": "venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "i really like this platform"
+      },
+      "1": {}
+    },
+    "C_4c6be0c0a1c94b87aad685e550db8666": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 16,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 1,
+        "n10_age": 38,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "United States",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_1c242089b30540919231e464187f8a73": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 0,
+        "n10_age": 37,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "N/A"
+      }
+    },
+    "C_80160c53ceb64895b3aab2a36c26ac00": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 10,
+        "n10_age": 28,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 3,
+        "n16_online_mix": 1,
+        "n06_texts": 1,
+        "n13_country": "Bolivia",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_cbf1c5fe0506443490b84155e8853495": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 8,
+        "n10_age": 32,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 1,
+        "n06_texts": 5,
+        "n13_country": "Puerto Rico",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_9a6817f259bf48908ab65040691798fb": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 14,
+        "n10_age": 28,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 8,
+        "n06_texts": 3,
+        "n13_country": "venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_d77799ca4a2648988d14220bedb17222": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 0,
+        "n10_age": 31,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 1,
+        "n06_texts": 2,
+        "n13_country": "United States",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": ""
+      }
+    },
+    "C_89ee74905d3241e1b514401f8289ef5b": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 1,
+        "n10_age": 43,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 3,
+        "n13_country": "United Kingdom",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "thanks mucha diversión"
+      }
+    },
+    "C_2a30446af2194c548e6dd101863929f5": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 12,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 37,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "US",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "No suggestions"
+      }
+    },
+    "C_d1bdfca3298c4194b6800029765404e2": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 16,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 35,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 9,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "usa",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_58a9e78a8c374eb8983725eb69e06796": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 0,
+        "n10_age": 39,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 9,
+        "n16_online_mix": 1,
+        "n06_texts": 3,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_9654445380994d22be77428f4bbeaff2": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "EEUU",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": "they need to make improvements in nature to this robot"
+      },
+      "1": {}
+    },
+    "C_66378618f7504789b5014dacf1b2b127": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 10,
+        "n10_age": 25,
+        "n01_i_understand": 1,
+        "n04_understand_me": 1,
+        "n03_human": 1,
+        "n05_chat": 3,
+        "n15_online_eng": 5,
+        "n16_online_mix": 4,
+        "n06_texts": 1,
+        "n13_country": "venezuela",
+        "n02_cooperative": 2,
+        "n07_tech": 5,
+        "n17_comments": "creo que al programa le hace falta entender lo que se le dice para que pueda dar una respuesta mas precisa y asi sea de bantante ayuda"
+      }
+    },
+    "C_793131ef681e416f99a546a7657cc7a0": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 1,
+        "n10_age": 28,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 5,
+        "n06_texts": 5,
+        "n13_country": "venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_372b739e29f64cf0996f4511e78025a5": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 1,
+        "n10_age": 39,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "USA",
+        "n02_cooperative": 4,
+        "n07_tech": 2,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_15b1ae897e53459398c84115d5d8c476": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 4,
+        "n10_age": 43,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 3,
+        "n13_country": "USA",
+        "n02_cooperative": 2,
+        "n07_tech": 4,
+        "n17_comments": "no comment"
+      },
+      "1": {}
+    },
+    "C_cce3100ed48b43ef9bf65940b379ac18": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 0,
+        "n10_age": 25,
+        "n01_i_understand": 2,
+        "n04_understand_me": 2,
+        "n03_human": 2,
+        "n05_chat": 1,
+        "n15_online_eng": 5,
+        "n16_online_mix": 10,
+        "n06_texts": 2,
+        "n13_country": "usa mexico",
+        "n02_cooperative": 3,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_9da4687ff5fe42a99392c8590a5af45c": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 1,
+        "n10_age": 22,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 10,
+        "n16_online_mix": 1,
+        "n06_texts": 5,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      }
+    },
+    "C_5cbd89f7417e46a2805e32181ebe12c5": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 5,
+        "n10_age": 30,
+        "n01_i_understand": 3,
+        "n04_understand_me": 2,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "haiti",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_9130094f9c0f4848860da98de27166b5": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 2,
+        "n10_age": 22,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 8,
+        "n06_texts": 4,
+        "n13_country": "mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_3b6f36736461432094605072b23db383": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 52,
+        "n01_i_understand": 2,
+        "n04_understand_me": 2,
+        "n03_human": 2,
+        "n05_chat": 1,
+        "n15_online_eng": 5,
+        "n16_online_mix": 5,
+        "n06_texts": 1,
+        "n13_country": "USA",
+        "n02_cooperative": 3,
+        "n07_tech": 4,
+        "n17_comments": "Confusing. I tried to type but as soon as I selected the correct partner it proceeded to the next question."
+      },
+      "1": {}
+    },
+    "C_8eb7f31cfae64fca984cf334b960db42": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 3,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 2,
+        "n06_texts": 4,
+        "n13_country": "EEUU",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": "it cost me a bit to make it work properly, it does not seem to understand very well"
+      },
+      "1": {}
+    },
+    "C_0596b070cd1c456190bf3b9ddf1e0284": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 1,
+        "n10_age": 40,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "US",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_5f4e312641b14f08876e436a9e0a4655": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 24,
+        "n01_i_understand": 2,
+        "n04_understand_me": 2,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 9,
+        "n16_online_mix": 4,
+        "n06_texts": 2,
+        "n13_country": "mexico",
+        "n02_cooperative": 2,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_5cf3ea222a534baf982c2b71980b67e5": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 8,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 22,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 5,
+        "n06_texts": 4,
+        "n13_country": "mexico",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_14606455ab8c49eea667c69377706d63": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 25,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 9,
+        "n06_texts": 4,
+        "n13_country": "U.S",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "I could understand fairly well the questions were clear but there were no correct options to select in that question, in the same way the information came to me."
+      }
+    },
+    "C_527d19b4f615479aab96de1d39862ae1": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 8,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 9,
+        "n10_age": 27,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 3,
+        "n16_online_mix": 6,
+        "n06_texts": 4,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "Es muy divertido hacer esta tarea. I like very much."
+      }
+    },
+    "C_6b0a991c167b46fc8f19b2bb903847e3": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 29,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 0,
+        "n06_texts": 5,
+        "n13_country": "Panama",
+        "n02_cooperative": 5,
+        "n07_tech": 1,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_028e7c475ecd493bb33ab2d76c04d199": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 36,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 4,
+        "n06_texts": 3,
+        "n13_country": "spain, united states",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_36c1bbbc847a4b4398b75aaa379fb612": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 12,
+        "n10_age": 24,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 3,
+        "n16_online_mix": 9,
+        "n06_texts": 4,
+        "n13_country": "venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "muy buen trabajo"
+      },
+      "1": {}
+    },
+    "C_95426e85801f463596e57e0ca09044b0": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 7,
+        "n10_age": 30,
+        "n01_i_understand": 1,
+        "n04_understand_me": 1,
+        "n03_human": 2,
+        "n05_chat": 1,
+        "n15_online_eng": 10,
+        "n16_online_mix": 9,
+        "n06_texts": 1,
+        "n13_country": "Mexico",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_8c162af9da20462ea7da87ce4680c597": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 2,
+        "n10_age": 22,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 2,
+        "n05_chat": 2,
+        "n15_online_eng": 10,
+        "n16_online_mix": 2,
+        "n06_texts": 1,
+        "n13_country": "United States",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_f6e8da8cc71b4731b67e5daef99dafa9": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 20,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 0,
+        "n10_age": 31,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 8,
+        "n06_texts": 4,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_5b464111f6794db7b862246c49b4360b": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 0,
+        "n10_age": 42,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 8,
+        "n16_online_mix": 2,
+        "n06_texts": 3,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_8b988ab9801c4250968e12d492f40be0": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 14,
+        "n10_age": 26,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 3,
+        "n06_texts": 4,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "Bueno creo que al bot le hace falta un poco mas de fluidez en la respuestas"
+      },
+      "1": {}
+    },
+    "C_02cb4c00c5534c2296ecfb553eb5cfe3": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 7,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "Colombia",
+        "n02_cooperative": 3,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_b1bbea9b1e954869944aafe2f9562ca7": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 7,
+        "n10_age": 29,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 3,
+        "n16_online_mix": 3,
+        "n06_texts": 2,
+        "n13_country": "DR",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_2f85c5dd7daa4e5597736c1bf290501a": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 8,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 3,
+        "n10_age": 43,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 2,
+        "n15_online_eng": 2,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "Argentina",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "The instructions should be in a betterspanish. They looked a little confusing."
+      },
+      "1": {}
+    },
+    "C_83ab7c0ddbc546b6b1059e8663f8a41c": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 38,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 3,
+        "n13_country": "Puerto Rico ",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_3c8e02a78898414fb0cfd15a1fa90b60": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 25,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 5,
+        "n13_country": "unites state",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "is top"
+      },
+      "1": {}
+    },
+    "C_fc669e32bf6242fab25b5ddf04236c36": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 8,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 12,
+        "n10_age": 25,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 4,
+        "n16_online_mix": 6,
+        "n06_texts": 4,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "me gusto mucho poder conversar con un sistema computarizado esta muy bien logrado, ahora solo hay que mejorar el agregar mas palabras en español de parte de sistema "
+      }
+    },
+    "C_1bbeeea414f3414288390bbe21215374": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 8,
+        "n10_age": 30,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 7,
+        "n06_texts": 4,
+        "n13_country": "MEXICO",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "GOOD SURVEY"
+      }
+    },
+    "C_a4808f582f1549db8a7bf05d5489dc6a": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 2,
+        "n10_age": 24,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 6,
+        "n06_texts": 2,
+        "n13_country": "united state",
+        "n02_cooperative": 1,
+        "n07_tech": 1,
+        "n17_comments": "no comment"
+      },
+      "1": {}
+    },
+    "C_7cfde999bd2e43ac9d04b598f2e4b91f": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 15,
+        "n10_age": 28,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 5,
+        "n15_online_eng": 9,
+        "n16_online_mix": 6,
+        "n06_texts": 3,
+        "n13_country": "venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "i like to partipate in this experience, it was so exited "
+      }
+    },
+    "C_7138901c2d7948ee9869b2a5c485cb04": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 6,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "EEUU",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "More fluidity"
+      },
+      "1": {}
+    },
+    "C_a9efce1181424b30b824a9b08c3552db": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 12,
+        "n10_age": 29,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 7,
+        "n16_online_mix": 10,
+        "n06_texts": 2,
+        "n13_country": "venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "estuvo muy entretenida la tarea. la disfrute mucho. gracias"
+      }
+    },
+    "C_5ace9ead06e84a0db008efdd6223963e": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 5,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "more natural"
+      },
+      "1": {}
+    },
+    "C_d6fff772a30f429dacc1f565f5f32604": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "EEUU",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "Need more naturalness"
+      },
+      "1": {}
+    },
+    "C_f108f820483d4a5fac67ad80cb5ddde0": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 9,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 3,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 5,
+        "n13_country": "EEUU",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "Improve naturalness"
+      }
+    },
+    "C_1b8674951cd949ea8985bc490b93a7ae": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 6,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 24,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 10,
+        "n16_online_mix": 5,
+        "n06_texts": 5,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_09935b9b590649698ca1a5d04a1d3014": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 6,
+        "n10_age": 29,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 4,
+        "n06_texts": 3,
+        "n13_country": "mexico",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_bb26867aba6a41b199015ee7459006d0": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 25,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "unites state",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "is top"
+      }
+    },
+    "C_034997f886dc473b8c6a6bfca3db32a6": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 9,
+        "n10_age": 30,
+        "n01_i_understand": 1,
+        "n04_understand_me": 2,
+        "n03_human": 2,
+        "n05_chat": 1,
+        "n15_online_eng": 8,
+        "n16_online_mix": 8,
+        "n06_texts": 2,
+        "n13_country": "usa",
+        "n02_cooperative": 1,
+        "n07_tech": 1,
+        "n17_comments": "very good"
+      }
+    },
+    "C_a0d9d7a0f3e546a2b84c7b4f76a7fd86": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 5,
+        "n10_age": 36,
+        "n01_i_understand": 1,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 2,
+        "n15_online_eng": 3,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_dc39fc2ec08e4b9bae41501fe4d7459c": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "EEUU",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": "need more naturalness"
+      },
+      "1": {}
+    },
+    "C_4c82fb52b0864809afb9528a92e68a1f": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 0,
+        "n10_age": 35,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 1,
+        "n05_chat": 1,
+        "n15_online_eng": 10,
+        "n16_online_mix": 1,
+        "n06_texts": 1,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 1,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_5c6c855433da44cbb1cde06c338f2bef": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 14,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 2,
+        "n10_age": 56,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "United States",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "none"
+      }
+    },
+    "C_c2cc151117b741108ef6ae197c04ee2d": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 0,
+        "n10_age": 41,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_ea270cb0d8d5452cbe949f438d1f14f5": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 24,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 1,
+        "n06_texts": 2,
+        "n13_country": "Spain",
+        "n02_cooperative": 2,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_ae9c5e87c55d455881b1536911c6d0b1": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": "when i was 3 years old",
+        "n11_ability_spa": 5,
+        "n09_learn_eng": "at the age of 3",
+        "n10_age": 19,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 10,
+        "n06_texts": 5,
+        "n13_country": "venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "it was a great experiment, was confused at first but then i get it, and for the explanation on spanish it was great too. thank you."
+      }
+    },
+    "C_494c8db991744e798327d8a203c62545": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 29,
+        "n01_i_understand": 2,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 2,
+        "n15_online_eng": 7,
+        "n16_online_mix": 5,
+        "n06_texts": 2,
+        "n13_country": "United States of America",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "putting in a little more time"
+      }
+    },
+    "C_1a51a6cf5b034eb8a85cd52b6b3cc182": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 5,
+        "n10_age": 26,
+        "n01_i_understand": 5,
+        "n04_understand_me": 1,
+        "n03_human": 1,
+        "n05_chat": 5,
+        "n15_online_eng": 2,
+        "n16_online_mix": 6,
+        "n06_texts": 1,
+        "n13_country": "Panama",
+        "n02_cooperative": 2,
+        "n07_tech": 5,
+        "n17_comments": ""
+      }
+    },
+    "C_f90b293951bd4da8aa17acb0ad236a5c": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 3,
+        "n10_age": 26,
+        "n01_i_understand": 2,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 2,
+        "n15_online_eng": 8,
+        "n16_online_mix": 7,
+        "n06_texts": 3,
+        "n13_country": "venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "no thanks"
+      },
+      "1": {}
+    },
+    "C_fa3ab2eaa02b436eb6c6a4f4ac959674": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 20,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 20,
+        "n10_age": 20,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 10,
+        "n06_texts": 3,
+        "n13_country": "usa",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_29c6d463465049da8db22ddaa3da587f": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 6,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 2,
+        "n10_age": 32,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 10,
+        "n06_texts": 3,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "It was very funny, like a game to discover which friend in common we had"
+      }
+    },
+    "C_f7fdba7ee0384d2f8da825a00a3512fe": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 26,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 4,
+        "n06_texts": 4,
+        "n13_country": "guatemala",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_7eccfaf59e21459fbc4b7a59745cbb77": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 5,
+        "n10_age": 26,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 5,
+        "n13_country": "unites state",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "very good"
+      },
+      "1": {}
+    },
+    "C_ca58ea78136c407badce050863b2b6a7": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 2,
+        "n05_chat": 5,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "EEUU",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "They should add more naturalness"
+      },
+      "1": {}
+    },
+    "C_d11eb9f5af814eed98a9cd9b4fecf23e": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 5,
+        "n10_age": 39,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 2,
+        "n16_online_mix": 6,
+        "n06_texts": 2,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": ""
+      }
+    },
+    "C_c2a2964515a34b78a6e07d32a67b89bd": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 10,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 2,
+        "n10_age": 48,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 8,
+        "n16_online_mix": 6,
+        "n06_texts": 4,
+        "n13_country": "United States.",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_6f8d9fd760f2488296cc431b611f3953": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 16,
+        "n10_age": 26,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 10,
+        "n06_texts": 3,
+        "n13_country": "puerto rico",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "tres de mis amigos trabajan en el banco"
+      }
+    },
+    "C_2e726f39e0a94a0ca17c7db5058d53aa": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 10,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 20,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 15,
+        "n10_age": 20,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 10,
+        "n06_texts": 3,
+        "n13_country": "usa",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": "thanks."
+      },
+      "1": {}
+    },
+    "C_2f2fd874263c45188be885284459115d": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 8,
+        "n10_age": 26,
+        "n01_i_understand": 5,
+        "n04_understand_me": 2,
+        "n03_human": 4,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 4,
+        "n06_texts": 5,
+        "n13_country": "Peru",
+        "n02_cooperative": 2,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_fd35c97047f0425989ff26dadc689144": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 29,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 5,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 2,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 3,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_cd5b345b03dd45f6b2207788a8e9b5d0": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 5,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "Mexico",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "need more naturalness"
+      }
+    },
+    "C_8809c311c26440ff87886fe68253c6bd": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 2,
+        "n10_age": 32,
+        "n01_i_understand": 5,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 0,
+        "n06_texts": 3,
+        "n13_country": "Colombia",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_bf739de6f5c14a1db318c0c13a27a159": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 9,
+        "n10_age": 34,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "Colombia",
+        "n02_cooperative": 4,
+        "n07_tech": 2,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_c83bd792eec34be7baef8cf629cf4e4b": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 13,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 1,
+        "n10_age": 46,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 2,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 3,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      }
+    },
+    "C_ce2dbda4a8d94c1aa40595d416587415": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 4,
+        "n10_age": 24,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 8,
+        "n16_online_mix": 9,
+        "n06_texts": 4,
+        "n13_country": "Chile",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_4a692c788ee1444f902762509f3f24e3": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": "5 years ago",
+        "n11_ability_spa": 4,
+        "n09_learn_eng": "is my native language",
+        "n10_age": 33,
+        "n01_i_understand": 2,
+        "n04_understand_me": 3,
+        "n03_human": 2,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "US",
+        "n02_cooperative": 2,
+        "n07_tech": 3,
+        "n17_comments": "hacen buen trabajo pero deben seguir puliendo su I.A, fue bastante interesante ayudarlos y espero que tengan exitos!"
+      },
+      "1": {}
+    },
+    "C_b7cc3759cc0b42358f30c50dc65c9bf7": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 2,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 13,
+        "n10_age": 25,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 2,
+        "n15_online_eng": 6,
+        "n16_online_mix": 8,
+        "n06_texts": 5,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "A mi parecer esta muy bueno el bot, con mas avances se que seguiran mejorando pero por los momentos veo todo un exito en su trabajo, sigan adelante"
+      }
+    },
+    "C_2efde312494a43b4b3971969688abe8c": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 5,
+        "n16_online_mix": 3,
+        "n06_texts": 4,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "a little more naturalness"
+      },
+      "1": {}
+    },
+    "C_cda517110d2e452d973ac21e6016d3c0": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 7,
+        "n10_age": 40,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 5,
+        "n13_country": "United States",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_c16f433f64134da08df90836d4375657": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 3,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 1,
+        "n06_texts": 5,
+        "n13_country": "EEUU",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "More fluids when chatting"
+      }
+    },
+    "C_347947ca3a094b3ca4ea02406e0c4aa5": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 11,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 3,
+        "n10_age": 32,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 2,
+        "n05_chat": 2,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "Finland",
+        "n02_cooperative": 4,
+        "n07_tech": 2,
+        "n17_comments": ""
+      }
+    },
+    "C_aab4050ef94945a29f572c6d9b3dd7eb": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 3,
+        "n10_age": 32,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 3,
+        "n15_online_eng": 7,
+        "n16_online_mix": 0,
+        "n06_texts": 3,
+        "n13_country": "united states of america, dominican republic",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_dc24e0f8aa86460e88855164400e9576": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 23,
+        "n10_age": 52,
+        "n01_i_understand": 3,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 5,
+        "n16_online_mix": 7,
+        "n06_texts": 4,
+        "n13_country": "Brasil, Bolivia",
+        "n02_cooperative": 3,
+        "n07_tech": 5,
+        "n17_comments": "Thank you! I enjoy it!"
+      }
+    },
+    "C_8c021bb0374f4717b56781a5a67524f1": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 10,
+        "n10_age": 25,
+        "n01_i_understand": 5,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 7,
+        "n16_online_mix": 9,
+        "n06_texts": 3,
+        "n13_country": "Puerto Rico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_4c061b754216447f8bd35e13c4a70245": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 2,
+        "n06_texts": 5,
+        "n13_country": "Mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "need more naturalness"
+      },
+      "1": {}
+    },
+    "C_4d65f75e51204d7e9802a8242fb63cbd": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 5,
+        "n10_age": 36,
+        "n01_i_understand": 3,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 8,
+        "n16_online_mix": 0,
+        "n06_texts": 3,
+        "n13_country": "Mexico",
+        "n02_cooperative": 3,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_7ec275b9573344448ef00eac843dcdf8": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 2,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 1,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "unites state",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "is top"
+      }
+    },
+    "C_09e4d13137c74b5ea4cb18169c1c5845": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 25,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 9,
+        "n06_texts": 4,
+        "n13_country": "U.S",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "I could understand very well the questions that I had and there were good options to answer."
+      }
+    },
+    "C_ab000d4a33ce408ca52e67375234b714": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 4,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 0,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 15,
+        "n10_age": 33,
+        "n01_i_understand": 2,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 6,
+        "n16_online_mix": 2,
+        "n06_texts": 1,
+        "n13_country": "Colombia",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "I dont have any comments"
+      }
+    },
+    "C_732324222e5f4d249358012be5bc261d": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 3,
+        "n08_learn_spa": 80,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 20,
+        "n10_age": 24,
+        "n01_i_understand": 3,
+        "n04_understand_me": 5,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 3,
+        "n16_online_mix": 9,
+        "n06_texts": 3,
+        "n13_country": "venezuela",
+        "n02_cooperative": 3,
+        "n07_tech": 4,
+        "n17_comments": "good job"
+      },
+      "1": {}
+    },
+    "C_d8d4711d1fe547e79750ad186ebe3e51": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 5,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 1,
+        "n10_age": 36,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "united states",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_8164ec1cc1aa48ea97a590dc2898f899": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 14,
+        "n11_ability_spa": 2,
+        "n09_learn_eng": 1,
+        "n10_age": 48,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "Italy/Ireland ",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": "Thank you."
+      },
+      "1": {}
+    },
+    "C_f9a12020c63f442690f95bac3e3995b9": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 9,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 26,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 8,
+        "n16_online_mix": 9,
+        "n06_texts": 4,
+        "n13_country": "U.S",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "I could understand fairly well the questions were clear but there were no correct options to select in that question."
+      },
+      "1": {}
+    },
+    "C_e30408c2cd4540f68b2d03af4fe89fcf": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 13,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 1,
+        "n10_age": 30,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 5,
+        "n16_online_mix": 5,
+        "n06_texts": 2,
+        "n13_country": "usa",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": ""
+      }
+    },
+    "C_570a6dd5efde48ef921979e1ec11971e": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 7,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 4,
+        "n10_age": 20,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 7,
+        "n16_online_mix": 0,
+        "n06_texts": 1,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 4,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_1fdc2d2fa99c45b5b5b0718102eccde2": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 0,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 10,
+        "n10_age": 23,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 3,
+        "n15_online_eng": 10,
+        "n16_online_mix": 0,
+        "n06_texts": 2,
+        "n13_country": "El Salvador",
+        "n02_cooperative": 2,
+        "n07_tech": 2,
+        "n17_comments": "I think the AI is good but is still not at siri caliber in fluidity. "
+      }
+    },
+    "C_1a15f58bfbfa4c49bb49f73472cda3b4": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 5,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 6,
+        "n10_age": 23,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 5,
+        "n16_online_mix": 10,
+        "n06_texts": 4,
+        "n13_country": "mexico",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "Overall my partner responded smoothly and it helped me solve and find which friend we had in common "
+      },
+      "1": {}
+    },
+    "C_afd6cb92f90e467788234db4cd8e5014": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 1,
+        "n06_texts": 3,
+        "n13_country": "EEUU",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "more natural?"
+      }
+    },
+    "C_da59d4ac8c4a4fe8b4617d82eb2dacfd": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 4,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 15,
+        "n10_age": 36,
+        "n01_i_understand": 5,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 5,
+        "n15_online_eng": 5,
+        "n16_online_mix": 4,
+        "n06_texts": 4,
+        "n13_country": "venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": ""
+      },
+      "1": {}
+    },
+    "C_aded57c8c26f44ca8474b0ba25fecb0b": {
+      "0": {},
+      "1": {
+        "n00_gender": "f",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 6,
+        "n11_ability_spa": 3,
+        "n09_learn_eng": 2,
+        "n10_age": 29,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 10,
+        "n16_online_mix": 4,
+        "n06_texts": 4,
+        "n13_country": "mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_303f40beae9e43b48d0a2df677d489ca": {
+      "0": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 2,
+        "n10_age": 24,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 4,
+        "n05_chat": 3,
+        "n15_online_eng": 8,
+        "n16_online_mix": 5,
+        "n06_texts": 4,
+        "n13_country": "Venezuela",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "The bot is perfectly good"
+      },
+      "1": {}
+    },
+    "C_9d3d2d0798a64167a533a2c1f32d1d29": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 8,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 0,
+        "n10_age": 40,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 3,
+        "n06_texts": 4,
+        "n13_country": "USA",
+        "n02_cooperative": 5,
+        "n07_tech": 5,
+        "n17_comments": "Maybe a practice round would help?  I felt pressure to fully understand the task while the clock was ticking down...but not unless that is also what you are trying to study."
+      }
+    },
+    "C_ee3c0d6e64aa450a8c6c4f2d77902b8d": {
+      "0": {
+        "n00_gender": "f",
+        "n14_online_spa": 1,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 40,
+        "n11_ability_spa": 1,
+        "n09_learn_eng": 1,
+        "n10_age": 56,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 0,
+        "n06_texts": 4,
+        "n13_country": "USA",
+        "n02_cooperative": 4,
+        "n07_tech": 3,
+        "n17_comments": "I am a beginner of spanish so somethibgs I couldnt fully understand"
+      },
+      "1": {}
+    },
+    "C_dd28ec5aaed7420fa63e08d04ff1358f": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 2,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 4,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 4,
+        "n10_age": 33,
+        "n01_i_understand": 5,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 6,
+        "n16_online_mix": 2,
+        "n06_texts": 4,
+        "n13_country": "EEUU",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": "More natural"
+      }
+    },
+    "C_6c19d3e488c9415bbc1c95e739291f1e": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 9,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 30,
+        "n01_i_understand": 4,
+        "n04_understand_me": 5,
+        "n03_human": 5,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 6,
+        "n06_texts": 4,
+        "n13_country": "mexico",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_3d335cd891ed452b987a7afafe08aa24": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 3,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 3,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 7,
+        "n10_age": 33,
+        "n01_i_understand": 4,
+        "n04_understand_me": 4,
+        "n03_human": 3,
+        "n05_chat": 5,
+        "n15_online_eng": 7,
+        "n16_online_mix": 1,
+        "n06_texts": 4,
+        "n13_country": "EEUU",
+        "n02_cooperative": 5,
+        "n07_tech": 4,
+        "n17_comments": "More natural"
+      }
+    },
+    "C_d0d5e1fea59a483889e2204cb4ce9008": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 6,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 1,
+        "n11_ability_spa": 5,
+        "n09_learn_eng": 1,
+        "n10_age": 25,
+        "n01_i_understand": 4,
+        "n04_understand_me": 3,
+        "n03_human": 4,
+        "n05_chat": 4,
+        "n15_online_eng": 7,
+        "n16_online_mix": 4,
+        "n06_texts": 3,
+        "n13_country": "mexico",
+        "n02_cooperative": 4,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    },
+    "C_371f128e6996434085ebd6fb67c31616": {
+      "0": {},
+      "1": {
+        "n00_gender": "m",
+        "n14_online_spa": 7,
+        "n12_ability_eng": 5,
+        "n08_learn_spa": 15,
+        "n11_ability_spa": 4,
+        "n09_learn_eng": 5,
+        "n10_age": 27,
+        "n01_i_understand": 1,
+        "n04_understand_me": 2,
+        "n03_human": 3,
+        "n05_chat": 4,
+        "n15_online_eng": 9,
+        "n16_online_mix": 8,
+        "n06_texts": 3,
+        "n13_country": "mexico",
+        "n02_cooperative": 3,
+        "n07_tech": 4,
+        "n17_comments": ""
+      }
+    }
+  }
+]

@@ -1,0 +1,11 @@
+chat_json	lid_tsv	qual_tsv
+data/1_ins/18content_0615_chat.json	data/1_ins/cont1_lid.tsv	data/1_ins/cont1_qual.tsv
+data/2_alt/19struct_0621_chat.json	data/2_alt/struct1_lid.tsv	data/2_alt/struct1_qual.tsv
+data/3_alt/struct_0629_trim17_chat.json	data/3_alt/struct2_lid.tsv	data/3_alt/struct2_qual.tsv
+data/4_ins/cont_0716_chat.json	data/4_ins/cont2_lid.tsv	data/4_ins/cont2_qual.tsv
+data/5_soc/0720_social_chat.json	data/5_soc/soc1_lid.tsv	data/5_soc/soc1_qual.tsv
+data/6/fig8_0_chat.json	data/6/all4_lid.tsv	data/6/all4_qual.tsv
+data/7/0731_all8_chat.json	data/7/0731_lid.tsv	data/7/0731_qual.tsv
+data/8/0801_all8_chat.json	data/8/0801_lid.tsv	data/8/0801_qual.tsv
+data/9_rand/0810_rand_chat.json	data/9_rand/0810_lid.tsv	data/9_rand/0810_qual.tsv
+data/0_mono/0924_mono_chat.json	data/0_mono/0924_lid.tsv	data/0_mono/0924_qual.tsv
